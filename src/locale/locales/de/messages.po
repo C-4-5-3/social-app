@@ -372,11 +372,11 @@ msgstr "Kontolöschung abbrechen"
 
 #: src/view/com/modals/AltImage.tsx:123
 msgid "Cancel add image alt text"
-msgstr "Abbrechen Bild-Alt-Text hinzufügen"
+msgstr "Bild-Alt-Text hinzufügen abbrechen"
 
 #: src/view/com/modals/ChangeHandle.tsx:149
 msgid "Cancel change handle"
-msgstr "Änderungsgriff abbrechen"
+msgstr "Änderung des Accountnamens abbrechen"
 
 #: src/view/com/modals/crop-image/CropImage.web.tsx:134
 msgid "Cancel image crop"
@@ -388,7 +388,7 @@ msgstr "Profilbearbeitung abbrechen"
 
 #: src/view/com/modals/Repost.tsx:64
 msgid "Cancel quote post"
-msgstr "Angebotspost abbrechen"
+msgstr "Zitat-Beitrag abbrechen"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:178
@@ -406,11 +406,11 @@ msgstr "Ändern"
 #: src/view/screens/Settings.tsx:601
 #: src/view/screens/Settings.tsx:610
 msgid "Change handle"
-msgstr "Änderungsgriff andern"
+msgstr "Bezeichnung ändern"
 
 #: src/view/com/modals/ChangeHandle.tsx:161
 msgid "Change Handle"
-msgstr "Änderungsgriff andern"
+msgstr "Accountnamen ändern"
 
 #: src/view/com/modals/VerifyEmail.tsx:141
 msgid "Change my email"
@@ -426,7 +426,7 @@ msgstr "Sehen Sie sich einige empfohlene Feeds an. Tippen Sie auf +, um sie zu I
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:185
 msgid "Check out some recommended users. Follow them to see similar users."
-msgstr "Sehen Sie sich einige empfohlene Benutzer an. Folgen Sie ihnen, um ähnliche Benutzer zu sehen."
+msgstr "Sehen Sie sich einige empfohlene Konten an. Folgen Sie ihnen, um ähnliche Konten zu sehen."
 
 #: src/view/com/modals/DeleteAccount.tsx:163
 msgid "Check your inbox for an email with the confirmation code to enter below:"
@@ -446,11 +446,11 @@ msgstr "Wählen Sie Ihr Passwort"
 
 #: src/view/screens/Settings.tsx:694
 msgid "Clear all legacy storage data"
-msgstr "Alle alten Speicherdaten löschen"
+msgstr "Alle alten gespeicherten Daten löschen"
 
 #: src/view/screens/Settings.tsx:696
 msgid "Clear all legacy storage data (restart after this)"
-msgstr "Alle alten Speicherdaten löschen (danach neu starten)"
+msgstr "Alle alten gespeicherten Daten löschen (danach neu starten)"
 
 #: src/view/screens/Settings.tsx:706
 msgid "Clear all storage data"
