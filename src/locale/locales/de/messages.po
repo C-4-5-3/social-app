@@ -49,15 +49,15 @@ msgstr "<0/> Mitglieder"
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:30
 msgid "<0>Choose your</0><1>Recommended</1><2>Feeds</2>"
-msgstr "<0>Wählen Sie Ihre</0><1>Empfohlenes</1><2>Feeds</2>"
+msgstr "<0>Wählen Sie Ihre</0><1>Empfohlene</1><2>Feeds</2>"
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:37
 msgid "<0>Follow some</0><1>Recommended</1><2>Users</2>"
-msgstr "<0>Folgen Sie einigen</0><1>Empfohlenes</1><2>Feed</2>"
+msgstr "<0>Folgen Sie einigen</0><1>Empfohlenen</1><2>Konten</2>"
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
 msgid "A content warning has been applied to this {0}."
-msgstr ""
+msgstr "Hierzu wurde eine Inhaltswarnung ergänzt {0}."
 
 #: src/lib/hooks/useOTAUpdate.ts:16
 msgid "A new version of the app is available. Please update to continue using the app."
@@ -66,7 +66,7 @@ msgstr "Eine neue Version der App ist verfügbar. Bitte aktualisieren Sie die Ap
 #: src/view/com/modals/EditImage.tsx:299
 #: src/view/screens/Settings.tsx:417
 msgid "Accessibility"
-msgstr "Zugänglichkeit"
+msgstr "Barrierefreiheit"
 
 #: src/view/com/auth/login/LoginForm.tsx:159
 #: src/view/screens/Settings.tsx:286
@@ -85,7 +85,7 @@ msgstr "Hinzufügen"
 
 #: src/view/com/modals/SelfLabel.tsx:56
 msgid "Add a content warning"
-msgstr "Eine Inhaltswarnung hinzufügen"
+msgstr "Inhaltswarnung hinzufügen"
 
 #: src/view/screens/ProfileList.tsx:744
 msgid "Add a user to this list"
@@ -112,11 +112,11 @@ msgstr "Einzelheiten zum Bericht hinzufügen"
 
 #: src/view/com/composer/Composer.tsx:442
 msgid "Add link card"
-msgstr "Link Karte hinzufügen"
+msgstr "Link-Karte hinzufügen"
 
 #: src/view/com/composer/Composer.tsx:445
 msgid "Add link card:"
-msgstr "Link Karte hinzufügen:"
+msgstr "Link-Karte hinzufügen:"
 
 #: src/view/com/modals/ChangeHandle.tsx:415
 msgid "Add the following DNS record to your domain:"
@@ -153,7 +153,7 @@ msgstr "ALT"
 
 #: src/view/com/modals/EditImage.tsx:315
 msgid "Alt text"
-msgstr "Alt Text"
+msgstr "Alt-Text"
 
 #: src/view/com/composer/photos/Gallery.tsx:209
 msgid "Alt text describes images for blind and low-vision users, and helps give context to everyone."
@@ -174,7 +174,7 @@ msgstr "und"
 
 #: src/view/screens/LanguageSettings.tsx:95
 msgid "App Language"
-msgstr "App Sprache"
+msgstr "App-Sprache"
 
 #: src/view/screens/Settings.tsx:589
 msgid "App passwords"
@@ -206,7 +206,7 @@ msgstr "Einspruch gegen diese Entscheidung"
 
 #: src/view/screens/Settings.tsx:432
 msgid "Appearance"
-msgstr "Aussehen"
+msgstr "Darstellung"
 
 #: src/view/screens/AppPasswords.tsx:223
 msgid "Are you sure you want to delete the app password \"{name}\"?"
@@ -261,15 +261,15 @@ msgstr "Konto sperren"
 
 #: src/view/screens/ProfileList.tsx:522
 msgid "Block accounts"
-msgstr "Kontos sperren"
+msgstr "Konten sperren"
 
 #: src/view/screens/ProfileList.tsx:472
 msgid "Block list"
-msgstr " Liste sperren"
+msgstr "Sperr-Liste"
 
 #: src/view/screens/ProfileList.tsx:307
 msgid "Block these accounts?"
-msgstr "Diese Kontos sperren?"
+msgstr "Diese Konten sperren?"
 
 #: src/view/screens/Moderation.tsx:123
 msgid "Blocked accounts"
@@ -289,11 +289,11 @@ msgstr "Gesperrte Konten können nicht in Ihren Beiträgen antworten, Sie erwäh
 
 #: src/view/com/post-thread/PostThread.tsx:250
 msgid "Blocked post."
-msgstr "Gesperrter Posten."
+msgstr "Gesperrter Beitrag."
 
 #: src/view/screens/ProfileList.tsx:309
 msgid "Blocking is public. Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
-msgstr "Die Sperrung ist öffentlich. Gesperrte Konten können nicht in Ihren Beiträgen antworten, Sie erwähnen oder anderweitig mit Ihnen interagieren."
+msgstr "Sperren ist öffentlich. Gesperrte Konten können nicht in Ihren Beiträgen antworten, Sie erwähnen oder anderweitig mit Ihnen interagieren."
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:93
 msgid "Blog"
@@ -329,7 +329,7 @@ msgstr "Bluesky.Social"
 
 #: src/view/screens/Settings.tsx:718
 msgid "Build version {0} {1}"
-msgstr "Version bauen {0} {1}"
+msgstr "Version {0} {1}"
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:87
 msgid "Business"
