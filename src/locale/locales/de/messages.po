@@ -53,7 +53,7 @@ msgstr "<0>Wählen Sie Ihre</0><1>empfohlenen</1><2>Feeds</2>"
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:37
 msgid "<0>Follow some</0><1>Recommended</1><2>Users</2>"
-msgstr "<0>Folgen Sie einigen</0><1>Empfohlenes</1><2>Feed</2>"
+msgstr "<0>Folgen Sie einigen</0><1>empfohlenen</1><2>Feeds</2>"
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
 msgid "A content warning has been applied to this {0}."
