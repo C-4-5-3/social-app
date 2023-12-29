@@ -49,7 +49,7 @@ msgstr "<0/> Mitglieder"
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:30
 msgid "<0>Choose your</0><1>Recommended</1><2>Feeds</2>"
-msgstr "<0>Wählen Sie Ihre</0><1>empfohlenn</1><2>Feeds</2>"
+msgstr "<0>Wählen Sie Ihre</0><1>empfohlenen</1><2>Feeds</2>"
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:37
 msgid "<0>Follow some</0><1>Recommended</1><2>Users</2>"
@@ -66,7 +66,7 @@ msgstr "Eine neue Version der App ist verfügbar. Bitte aktualisieren Sie die Ap
 #: src/view/com/modals/EditImage.tsx:299
 #: src/view/screens/Settings.tsx:417
 msgid "Accessibility"
-msgstr "Zugänglichkeit"
+msgstr "Barrierefreiheit"
 
 #: src/view/com/auth/login/LoginForm.tsx:159
 #: src/view/screens/Settings.tsx:286
@@ -75,7 +75,7 @@ msgstr "Konto"
 
 #: src/view/com/util/AccountDropdownBtn.tsx:41
 msgid "Account options"
-msgstr "Konto Optionen"
+msgstr "Konto-Optionen"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:264
 #: src/view/com/modals/UserAddRemoveLists.tsx:193
@@ -85,11 +85,11 @@ msgstr "Hinzufügen"
 
 #: src/view/com/modals/SelfLabel.tsx:56
 msgid "Add a content warning"
-msgstr "Eine Inhaltswarnung hinzufügen"
+msgstr "Inhaltswarnung hinzufügen"
 
 #: src/view/screens/ProfileList.tsx:753
 msgid "Add a user to this list"
-msgstr "Einen Benutzer zu dieser Liste hinzufügen"
+msgstr "Konto zu dieser Liste hinzufügen"
 
 #: src/view/screens/Settings.tsx:355
 #: src/view/screens/Settings.tsx:364
@@ -99,7 +99,7 @@ msgstr "Konto hinzufügen"
 #: src/view/com/composer/photos/Gallery.tsx:119
 #: src/view/com/composer/photos/Gallery.tsx:180
 msgid "Add alt text"
-msgstr "Alt Text hinzufügen"
+msgstr "Bildbeschreibung hinzufügen"
 
 #: src/view/com/modals/report/InputIssueDetails.tsx:41
 #: src/view/com/modals/report/Modal.tsx:191
